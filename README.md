@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I’m a **Computer Science and Engineering (CSE) learner** with a passion for exploring diverse technological domains. From **AI** and **3D printing** to **drone technology** and **virtual worlds**, I strive to leverage my skills for impactful projects. I also have a solid foundation in **web development**, **generative AI**, and various **design tools**, with a focus on creating innovative and socially beneficial solutions.
+I’m a **Computer Science and Engineering learner** with a passion for exploring diverse technological domains. From **AI** and **3D printing** to **drone technology** and **virtual worlds**, I strive to leverage my skills for impactful projects. I also have a solid foundation in **web development**, **generative AI**, and various **design tools**, with a focus on creating innovative and socially beneficial solutions.
 
 ---
 
